@@ -11,3 +11,5 @@ Agora, estou me dedicando a aprender sobre programação e tecnologia, buscando 
 ![Adriano-Avelar GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriano-Avelar&show_icons=true&theme=dark)
 
 ![Adriano-Avelar GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+![Adriano-Avelar GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriano-Avelar&show_icons=true&theme=radical)
