@@ -1,8 +1,8 @@
 👋 Olá, pessoal do GitHub! Eu sou o Adriano Avelar, Bacharel em Administração de Empresas que decidiu embarcar em uma jornada maluca de transição de carreira para o mundo da tecnologia. 💼➡️💻
 
-Depois de passar mais de 7 anos na área comercial, descobri uma paixão avassaladora pela tecnologia e decidi que era hora de seguir meu coração (e meu teclado). Agora, estou sempre em busca de novos desafios e aprendendo coisas incríveis enquanto crio projetos.
+Depois de passar mais de 7 anos na área comercial, descobri uma paixão avassaladora pela programaçao e decidi que era hora de seguir meu coração (e meu teclado). Agora, estou sempre em busca de novos desafios e aprendendo coisas incríveis enquanto crio projetos.
 
-Minha missão? Colocar minha marca no mundo digital! 💥 Estou em constante evolução, aprendendo novas habilidades e explorando as maravilhas do desenvolvimento de software. Meu objetivo é trazer uma perspectiva única e uma pitada de bom humor para o mundo da tecnologia.
+Minha missão? Colocar minha marca no mundo! 💥 Estou em constante evolução, aprendendo novas habilidades e explorando as maravilhas do desenvolvimento de software. 
 
 Então, se você está procurando alguém que combine conhecimentos de negócios com uma paixão ardente pela programação, você veio ao lugar certo! Vamos construir algo incrível juntos e deixar uma marca que será lembrada. 🚀
 
